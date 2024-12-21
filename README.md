@@ -61,7 +61,7 @@ The project involves key **Natural Language Processing (NLP)** techniques like c
 #### **⚙️ Setup Instructions**
 1. **🗂️ Clone the Repository:**
    ```bash
-   git clone https://github.com/<your-username>/twitter-sentiment-analysis.git
+   git clone https://github.com/<shreyadata804>/twitter-sentiment-analysis.git
    cd twitter-sentiment-analysis
    ```
 2. **📂 Data Preparation:**
@@ -117,7 +117,7 @@ Contributions are welcome! Feel free to fork the project and submit pull request
 
 ### **📞 Contact**
 For questions or suggestions, contact:
-- **Your Name:** [workguptashreya@gmail.com]
+- **Shreya Gupta:** [workguptashreya@gmail.com]
 
 ---
 
